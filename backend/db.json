@@ -1,0 +1,23 @@
+{
+"pensamentos": [
+  {
+    "id": 1,
+    "conteudo": "Que bom que você veio.",
+    "autoria" : "Cesar",
+    "modelo": "modelo1"
+  },
+  {
+    "id": 2,
+    "conteudo": "HP é legal.",
+    "autoria" : "Cesao",
+    "modelo": "modelo2"
+  },
+  {
+    "id": 3,
+    "conteudo": "Angular é bacana demais.",
+    "autoria" : "Cesinha",
+    "modelo": "modelo3"
+  }
+]
+
+}
